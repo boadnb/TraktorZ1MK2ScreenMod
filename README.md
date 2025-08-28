@@ -1,5 +1,3 @@
-[![Demonstration](https://i.ytimg.com/vi/MUkICgppAvE/oar2.jpg)](https://youtube.com/shorts/MUkICgppAvE?si=dRjJ7eplKVo9y6NG)
-
 Version 2.0
 
 This modification adds the ability to cycle through multiple channel configurations on the 
@@ -58,3 +56,6 @@ Installation is completed in 7 easy steps.
 
 Currently known issues:
    - Filter button only functions when a channel is in its factory position (left or right).
+
+
+[![Demonstration](https://i.ytimg.com/vi/MUkICgppAvE/oar2.jpg)](https://youtube.com/shorts/MUkICgppAvE?si=dRjJ7eplKVo9y6NG)
