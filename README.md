@@ -6,25 +6,41 @@ two Z1MK2 controllers, creating a more versatile and familiar mixing layout for 
 performance.
 
 In order, the available combinations are;
+
 A - B
+
 C - D
+
 A - C
+
 D - B
+
 C - A
+
 B - D       
+
+
 
 This mod also converts the side screens to Deck Information screens. These display similar
 information to the X1 MK3.
 
 The information displayed on the side screens includes;
+
 Track Title
+
 BPM
+
 Key
+
 Loop Size
+
 Loop Active
+
 Time Remaining
+
 Track Position                                                                                    
-                                                                                            
+
+																																														
 
 Installation is completed in 7 easy steps.
    1. Copy the 3 folders CSI, Defines, and Screens
