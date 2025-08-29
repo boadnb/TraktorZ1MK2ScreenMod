@@ -47,7 +47,13 @@ Installation is completed in 15 easy steps.
   15. Have fun!
 
 Version Notes:
-1.0 Started as Deck Select Mod.
-2.0 First iteration of screen mod.
-2.1 Corrected Screen Text proportions.
-2.2 Added Controller Mapping to fix Filter Assignment issue.
+  1.0 Started as Deck Select Mod.
+  2.0 First iteration of screen mod.
+  2.1 Corrected Screen Text proportions.
+  2.2 Added Controller Mapping to fix Filter Assignment issue.
+
+
+Possible future Version Additions
+  - Ability to switch between screen modes (Deck, Mixer, FX, Stems, Etcetera)
+  - More Data Options on screen
+  - Different Data Layout Configurations
