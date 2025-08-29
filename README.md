@@ -42,16 +42,17 @@ Track Position
 
 																																														
 
-Installation is completed in 7 easy steps.
-   1. Copy the 3 folders CSI, Defines, and Screens
-   2. Navigate to your Traktor Pro 4 installation folder.
+Installation is completed in 8 easy steps.
+   1. Navigate to your Traktor Pro 4 installation folder.
       - Windows: C:\Program Files\Native Instruments\Traktor Pro 4
       - Mac: Applications\Native Instruments\Traktor Pro 4
-   3. Open the 'Resources64' directory.
-   4. Open the 'qml' directory.
-   5. Paste the files here, overwriting the old files.
-   6. Open Traktor Pro 4.
-   7. Have fun!.
+   2. Open the 'Resources64' directory.
+   3. Open the 'qml' directory.
+   4. Open the 'CSI' directory and replace the X1MK3 and Z1MK2 directories using the modified files.
+   5. Open the 'Defines' directory and replace its content using the modified files.
+   6. Open the 'Screens' directory and replace the the X1MK3 and Z1MK2 directories using the modified files.
+   7. Open Traktor Pro 4.
+   8. Have fun!
 
 
 Currently known issues:
